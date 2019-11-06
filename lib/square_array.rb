@@ -8,6 +8,6 @@ while counter<array.length do
 counter += 1
 
 end
-puts array
+p array
 
 end
